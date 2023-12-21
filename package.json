@@ -1,0 +1,23 @@
+{
+  "name": "@enchart-test/semantic-release-test",
+  "description": "Testing the semantic-release workflows",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enchart/semantic-release-test.git"
+  },
+  "keywords": [],
+  "author": "enchart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enchart/semantic-release-test/issues"
+  },
+  "homepage": "https://github.com/enchart/semantic-release-test",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "semantic-release": "^22.0.12"
+  }
+}
