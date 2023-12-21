@@ -1,7 +1,7 @@
 {
   "name": "@enchart-test/semantic-release-test",
   "description": "Testing the semantic-release workflows",
-  "version": "0.0.1",
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
