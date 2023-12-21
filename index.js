@@ -1,3 +1,3 @@
 module.exports = {
-  message: "Hello World!",
+  message: "Hello World",
 };
