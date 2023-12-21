@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - alpha
 
 permissions:
   contents: read
